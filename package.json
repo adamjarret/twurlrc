@@ -1,0 +1,35 @@
+{
+  "name": "twurlrc",
+  "version": "0.9.0",
+  "description": "Parse .twurlrc files",
+  "main": "index.js",
+  "scripts": {
+    "docs": "documentation readme index.js --section=API",
+    "docs-lint": "documentation lint index.js",
+    "pack": "npm pack --dry-run",
+    "lint": "eslint '*.js' 'test/**/*.js' 'src/**/*.js'",
+    "test": "spoon 'test/**/*.test.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamjarret/twurlrc"
+  },
+  "keywords": [
+    "twurl",
+    "twurlrc",
+    "parse",
+    "parser",
+    "twitter"
+  ],
+  "author": "Adam Jarret <adam@atj.me>",
+  "license": "MIT",
+  "dependencies": {
+    "yaml": "^1.0.1"
+  },
+  "devDependencies": {
+    "documentation": "^8.1.2",
+    "eslint": "^5.9.0",
+    "spooning": "^1.1.0",
+    "spooning-cli": "^1.0.0"
+  }
+}

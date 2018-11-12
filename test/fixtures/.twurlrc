@@ -1,0 +1,13 @@
+---
+profiles:
+  fake_screen_name:
+    FaKeCoNsUmErKeY:
+      username: fake_screen_name
+      consumer_key: FaKeCoNsUmErKeY
+      consumer_secret: FaKeCoNsUmErSeCrEt
+      token: FaKeAuThToKeN
+      secret: FaKeAuThSeCrEt
+configuration:
+  default_profile:
+  - fake_screen_name
+  - FaKeCoNsUmErKeY
