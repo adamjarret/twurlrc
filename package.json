@@ -24,12 +24,12 @@
   "author": "Adam Jarret <adam@atj.me>",
   "license": "MIT",
   "dependencies": {
-    "yaml": "^1.0.1"
+    "yaml": "^1.6.0"
   },
   "devDependencies": {
-    "documentation": "^8.1.2",
-    "eslint": "^5.9.0",
-    "spooning": "^1.1.0",
-    "spooning-cli": "^1.0.0"
+    "documentation": "^11.0.0",
+    "eslint": "^5.16.0",
+    "spooning": "^1.1.2",
+    "spooning-cli": "^1.0.3"
   }
 }
