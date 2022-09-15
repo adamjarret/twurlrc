@@ -27,7 +27,7 @@
     "yaml": "^1.6.0"
   },
   "devDependencies": {
-    "documentation": "^11.0.0",
+    "documentation": "^14.0.0",
     "eslint": "^5.16.0",
     "spooning": "^1.1.2",
     "spooning-cli": "^1.0.3"
